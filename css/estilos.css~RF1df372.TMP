@@ -1,0 +1,36 @@
+#encabezado{
+	 width: 800px;
+	 height: 600px;
+	 margin: 0 auto;
+
+}
+#nombre{
+	 width: 800px;
+	 height: 150px;
+	 margin: 0 auto;
+
+}
+#slider{
+	 width: 800px;
+	 height: 450px;
+	 margin: 0 auto;
+ color: red;
+}
+#cuerpo{
+	 width: 800px;
+	 height: 400px;
+	 margin: 0 auto;
+color: blue;
+}
+#pie{
+	 width: 800px;
+	 height: 200px;
+	 margin: 0 auto;
+color: orange;
+}
+#mapa{
+	 width: 800px;
+	 height: 350px;
+	 margin: 0 auto;
+color: purple;
+}
