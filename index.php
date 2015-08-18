@@ -16,8 +16,8 @@
 	<div id="menu">
 		
 <?php  
-	include("menu.html");
-
+	include("menu2.html");
+        include("pie.html"); 
 ?>
 
 	</div>
